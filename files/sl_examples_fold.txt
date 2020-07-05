@@ -1,0 +1,960 @@
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [7d 3s]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [7h 3s]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [7h 3d]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [7d 2s]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [7h 2s]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [7h 2d]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [7d 4s]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [7h 4s]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [7h 4d]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [7d 5s]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [7h 5s]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [7h 5d]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [7d 6s]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [7h 6s]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [7h 6d]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [7d 3s]
+Agent1: raises 100 to 120
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [7h 3s]
+Agent1: raises 100 to 120
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [7h 3d]
+Agent1: raises 100 to 120
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [7d 2s]
+Agent1: raises 100 to 120
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [7h 2s]
+Agent1: raises 100 to 120
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [7h 2d]
+Agent1: raises 100 to 120
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [7d 4s]
+Agent1: raises 100 to 120
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [7h 4s]
+Agent1: raises 100 to 120
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [7h 4d]
+Agent1: raises 100 to 120
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [7d 5s]
+Agent1: raises 100 to 120
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [7h 5s]
+Agent1: raises 100 to 120
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [7h 5d]
+Agent1: raises 100 to 120
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [7d 6s]
+Agent1: raises 100 to 120
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [7h 6s]
+Agent1: raises 100 to 120
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [7h 6d]
+Agent1: raises 100 to 120
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [Td 2s]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [Th 2s]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [Th 2d]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [Td 3s]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [Th 3s]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [Th 3d]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [Td 4s]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [Th 4s]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [Th 4d]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [Td 5s]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [Th 5s]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [Th 5d]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [Td 6s]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [Th 6s]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [Th 6d]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [Td 7s]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [Th 7s]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [Th 7d]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [Td 8s]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [Th 8s]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [Th 8d]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [9d 2s]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [9h 2s]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [9h 2d]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [9d 3s]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [9h 3s]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [9h 3d]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [9d 4s]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [9h 4s]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [9h 4d]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [8d 4s]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [8h 4s]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [8h 4d]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [8d 3s]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [8h 3s]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [8h 3d]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [8d 2s]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [8h 2s]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [8h 2d]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [3d 2s]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [3h 2s]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [3h 2d]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [4d 2s]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [4h 2s]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [4h 2d]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [5d 2s]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [5h 2s]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [5h 2d]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [5d 3s]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [5h 3s]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [5h 3d]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [Jd 3s]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [Jh 3s]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [Jh 3d]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [Jd 2s]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [Jh 2s]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [Jh 2d]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [Jd 4s]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [Jh 4s]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [Jh 4d]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [Jd 5s]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [Jh 5s]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [Jh 5d]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [Jd 6s]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [Jh 6s]
+Agent1: raises 480 to 500
+
+PokerStars Hand #400858: Tournament #40000000000, $10 + $0 USD Hold'em No Limit - Level I (10/20) - 2020/04/24/19:18:30 CET [2020/04/24/19:18:30 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent1 (500 in chips)
+Seat 2: Agent2 (500 in chips)
+Agent2: posts small blind 10
+Agent1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent2 [Jh 6d]
+Agent1: raises 480 to 500
+

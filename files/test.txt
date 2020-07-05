@@ -1,0 +1,16 @@
+PokerStars Hand #26192363: Tournament #40000000000,  $10 + $0 USD Hold'em  No Limit - Level I (10/20) - 2020/05/12/08:28:12 CET [2020/05/12/08:28:12 ET]
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent_1 (100 in chips)
+Seat 2: Agent_2 (100 in chips)
+Agent_1: posts small blind 10
+Agent_2: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent_1 [Kd Kh]
+
+Table '300000000 1' 2-max Seat #1 is the button
+Seat 1: Agent_1 (100 in chips)
+Seat 2: Agent_2 (100 in chips)
+Agent_1: posts small blind 10
+Agent_2: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Agent_1 [Qd Qh]
